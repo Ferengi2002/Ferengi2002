@@ -16,9 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/astro_cat.webp" width="50">
   <b>"PER ASPERA AD ASTRA"</b>
-  <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="50">
 </p>
 
 ---
